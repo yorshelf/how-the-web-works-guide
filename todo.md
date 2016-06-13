@@ -4,4 +4,5 @@
 - the nbsp; are removing fucked up the markdown styling : i must re-style the readme.md in simplified github flavored md
 - add part 3 : web page rendering
 - style cover title like open source society does it
+- add other titles to summary : concept described, 
 
